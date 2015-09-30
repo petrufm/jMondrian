@@ -1,4 +1,4 @@
 # jMondrian
-An information visualization framewrok
+An information visualization framework
 
 Note: Moving to github in progress ...
