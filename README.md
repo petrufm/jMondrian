@@ -1,2 +1,2 @@
 # jMondrian
-jMondrian - An information visualization framewrok
+An information visualization framewrok
